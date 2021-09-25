@@ -17,7 +17,7 @@ I'm a final year student pursuing Master's in Computer Application 🎓 from  Un
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with ASP.NET <br /> 
+- 🛠 &nbsp; I’m currently working with ASP.NET Core MVC<br /> 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sree-raghavan).
 - 📫 &nbsp; How to reach me: sreeraghavan.off@gmail.com
