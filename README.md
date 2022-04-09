@@ -17,7 +17,7 @@ I'm a MCA Graduate 🎓 from  University of kerala🏛. I'm a passionate learner
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with ASP.NET Core MVC<br /> 
+- 🛠 &nbsp; I’m currently working with ASP.NET Core MVC and Angular 13<br /> 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sree-raghavan).
 - 📫 &nbsp; How to reach me: sreeraghavan.off@gmail.com
@@ -51,7 +51,7 @@ I'm a MCA Graduate 🎓 from  University of kerala🏛. I'm a passionate learner
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows</li>
-	    <li><b>Laptop: </b> Lenovo ideapad (i7)</li>
+	    <li><b>Laptop: </b>Hp Pavilion</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <br />
