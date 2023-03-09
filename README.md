@@ -21,7 +21,6 @@ I'm a MCA Graduate 🎓 from  University of kerala🏛. I'm a passionate learner
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sree-raghavan).
 - 📫 &nbsp; How to reach me: sreeraghavan.off@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1kGyJ7irY9FKkV4oOR6kCIemKaLO_tAZY/view?usp=sharing).
 
 ### Languages and Tools:
 
